@@ -1,22 +1,22 @@
 <template>
-  <!-- <TheNav /> -->
+  <TheNav />
   <div class="flex-wrapper">
     <RouterView />
-    <!-- <TheFooter /> -->
+    <TheFooter />
   </div>
 </template>
 
 <script>
 import { RouterView } from "vue-router";
-// import TheNav from "@/components/NavSection/TheNav.vue";
-// import TheFooter from "@/components/FooterSection/TheFooter.vue";
+import TheNav from "@/components/NavSection/TheNav.vue";
+import TheFooter from "@/components/FooterSection/TheFooter.vue";
 
 export default {
   name: "App",
   components: {
     RouterView,
-    // TheNav,
-    // TheFooter,
+    TheNav,
+    TheFooter,
   },
 };
 </script>

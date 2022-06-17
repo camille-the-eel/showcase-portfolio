@@ -1,0 +1,61 @@
+.navAccent .circle-outmost {
+  display: none;
+}
+
+/* contains overflow */
+.navAccent .circle-bounding-box {
+  position: absolute;
+  height: 15rem;
+  width: 40vw;
+  right: 0;
+  top: 0;
+}
+
+/* accent positioning */
+.navAccent .circle-flex-container {
+  position: absolute;
+  top: -6rem;
+  left: 10vw;
+}
+
+@media (min-width: 16em) and (max-width: 37em) {
+  .navAccent .circle-bounding-box {
+    width: 12.5em;
+  }
+  .navAccent .circle-flex-container {
+    top: -4.4em;
+    left: 3.75em;
+  }
+}
+
+@media (min-width: 50em) {
+  .navAccent .circle-bounding-box {
+    width: 20em;
+  }
+  .navAccent .circle-flex-container {
+    left: 5em;
+  }
+}
+
+/* mobile pop-out menu only */
+.mobile-toggle-accent.circle-position-container {
+  z-index: 2;
+}
+
+.mobile-toggle-accent .circle-outmost {
+  display: block;
+}
+
+.mobile-toggle-accent .circle-bounding-box {
+  position: fixed;
+  width: 18rem;
+  height: 18rem;
+  right: -30%;
+  top: 85%;
+}
+
+.mobile-toggle-accent .circle-flex-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
