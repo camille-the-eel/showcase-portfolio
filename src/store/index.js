@@ -54,13 +54,13 @@ export default createStore({
           description:
             "Promotional brochure design showcasing the recently opened event space–The Crown Room, featuring photos by Justin Chesney.",
           client: "The Crown Room at Hotel Greene",
-          thumbnailFilePath: require("@/assets/designAssets/cr-brochure/brochure_CR-thumbnail.png"),
+          thumbnailFilePath: require("@/assets/designAssets/cr-brochure/brochure_CR-thumbnail.jpg"),
           featureFilePath: require("@/assets/designAssets/cr-brochure/brochure_CR-thumbnail-circle.png"),
           showcaseFilePaths: [
-            require("@/assets/designAssets/cr-brochure/brochure_CR-mockup1.png"),
-            require("@/assets/designAssets/cr-brochure/brochure_CR-mockup2.png"),
-            require("@/assets/designAssets/cr-brochure/brochure_CR-mockup3.png"),
-            require("@/assets/designAssets/cr-brochure/brochure_CR-mockup4.png"),
+            require("@/assets/designAssets/cr-brochure/brochure_CR-mockup1.jpg"),
+            require("@/assets/designAssets/cr-brochure/brochure_CR-mockup2.jpg"),
+            require("@/assets/designAssets/cr-brochure/brochure_CR-mockup3.jpg"),
+            require("@/assets/designAssets/cr-brochure/brochure_CR-mockup4.jpg"),
           ],
           dateYear: 2021,
           additionalCredit: [
@@ -114,7 +114,7 @@ export default createStore({
           description:
             "Collectible stamps created for Hotel Greene's Ambassador Hour–a rotating happy hour special where guests can collect stamps in their passport for each cuisine they enjoy. Vienna, Austria was the first locale, followed by San Sebastián, Spain. Istanbul was soon to follow, designed by our new team member, Natalie Richardson (and referred to by it's classical name of Constantinople). Stamps are designed as the cuisine changes, rather than as a full set, per the direction of the client.",
           client: "Hotel Greene",
-          thumbnailFilePath: require("@/assets/designAssets/hg-passport-stamps/passport-stamps-thumbnail.png"),
+          thumbnailFilePath: require("@/assets/designAssets/hg-passport-stamps/passport-stamps-thumbnail.jpg"),
           featureFilePath: require("@/assets/designAssets/hg-passport-stamps/passport-stamps-thumbnail-circle.png"),
           showcaseFilePaths: [
             require("@/assets/designAssets/hg-passport-stamps/passport-stamps-1.jpg"),
@@ -156,7 +156,7 @@ export default createStore({
           description:
             'Collaboration with Leslie Herman to create a "passport" for Hotel Greene\'s Ambassador Hour–a running happy hour special, which follows their faux ambassador as he travels the world, offering a new cuisine to sample every couple months. Guests can collect stamps in their passport for each cuisine they enjoy. I worked with Leslie to create a cohesive overall design, centered around his distinctive illustration style and existing brand logotype. His front cover set the tone for this custom-sized pocket passport, while my illustated travel map provides fun and visual interest, hinting at which city and cuisine is yet to come. The interior design I kept minimalistic, to better showcase the colorful, collectible stamps.',
           client: "Hotel Greene",
-          thumbnailFilePath: require("@/assets/designAssets/hg-passport/passport_map-thumbnail.png"),
+          thumbnailFilePath: require("@/assets/designAssets/hg-passport/passport_map-thumbnail.jpg"),
           featureFilePath: require("@/assets/designAssets/hg-passport/passport_map-thumbnail-circle.png"),
           showcaseFilePaths: [
             require("@/assets/designAssets/hg-passport/passport-showcase-4.jpg"),

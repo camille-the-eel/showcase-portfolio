@@ -5,7 +5,7 @@ import TheResume from "@/components/ResumeSection/TheResume.vue";
 <template>
   <div class="about-container">
     <!-- <div class="avatar-wrapper"> -->
-    <img class="avatar-img" :src="require('@/assets/headshot-crop-R.png')" />
+    <img class="avatar-img" :src="require('@/assets/headshot-crop.jpg')" />
     <!-- </div> -->
     <div class="about-header">
       <h6>ABOUT ME</h6>
