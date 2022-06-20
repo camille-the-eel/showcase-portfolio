@@ -3,7 +3,6 @@ import { RouterLink } from "vue-router";
 import HeroHeader from "@/components/HeroSection/HeroHeader.vue";
 import AccentCircle from "@/components/AccentElements/AccentCircle.vue";
 import AccentRules from "@/components/AccentElements/AccentRules.vue";
-import router from "../../router";
 </script>
 
 <template>

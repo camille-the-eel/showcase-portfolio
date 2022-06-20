@@ -5,7 +5,7 @@ import TheResume from "@/components/ResumeSection/TheResume.vue";
 <template>
   <div class="about-container">
     <!-- <div class="avatar-wrapper"> -->
-    <img class="avatar-img" :src="require('@/assets/headshot-crop-R.png')" />
+    <img class="avatar-img" :src="require('@/assets/headshot-crop.jpg')" />
     <!-- </div> -->
     <div class="about-header">
       <h6>ABOUT ME</h6>
@@ -19,7 +19,7 @@ import TheResume from "@/components/ResumeSection/TheResume.vue";
       </p>
       <p>
         I love the challenges coding provides, and the endless learning and
-        growth inherit to it. I'm a bootcamp and self-taught developer with a
+        growth inherent to it. I'm a bootcamp and self-taught developer with a
         litany of transferable skills and a strong desire to succeed (but that's
         all in my resume, linked below).
       </p>
