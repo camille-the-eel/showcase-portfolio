@@ -6,7 +6,7 @@
     <p class="mobile-click-notice">Tap for more details.</p>
     <DesignWorkContainer />
   </div>
-  <AccentRules class="designWorkAccent" />
+  <!-- <AccentRules class="designWorkAccent" /> -->
   <TheResume />
 </template>
 
