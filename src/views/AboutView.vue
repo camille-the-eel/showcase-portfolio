@@ -19,7 +19,7 @@ import TheResume from "@/components/ResumeSection/TheResume.vue";
       </p>
       <p>
         I love the challenges coding provides, and the endless learning and
-        growth inherit to it. I'm a bootcamp and self-taught developer with a
+        growth inherent to it. I'm a bootcamp and self-taught developer with a
         litany of transferable skills and a strong desire to succeed (but that's
         all in my resume, linked below).
       </p>

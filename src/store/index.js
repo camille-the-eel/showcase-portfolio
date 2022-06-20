@@ -78,8 +78,8 @@ export default createStore({
             },
             {
               id: 3,
-              projectContribution: "Floorplan illustration:",
-              name: "me",
+              projectContribution: "Floorplan illustration: me",
+              name: "",
               url: "",
             },
           ],

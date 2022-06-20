@@ -33,7 +33,7 @@ export default {
           description:
             "Portfolio website designed and developed to showcase work.",
           filePath: require("@/assets/devAssets/portfolio-thumbnail_portfolio.jpg"),
-          websiteURL: "",
+          websiteURL: "https://github.com/camille-the-eel/portfolio-site",
           githubURL: "https://github.com/camille-the-eel/portfolio-site",
           dateYear: 2022,
         },
@@ -78,7 +78,7 @@ export default {
           description:
             'Bamazon is a command line Node.js application that utilizes MySQL to retrieve and update database-stored information. On the "Bamazon" storefront, customers can view products and make a purchase that updates the store\'s inventory. Managers can view all inventory, view low inventory, add to the inventory of an existing product, and create a new product. Instructions to run this app can be found in the READ.me on Github.',
           filePath: require("@/assets/devAssets/bamazonM-2.gif"),
-          websiteURL: "",
+          websiteURL: "https://github.com/camille-the-eel/bamazon",
           githubURL: "https://github.com/camille-the-eel/bamazon",
           dateYear: 2019,
         },
@@ -111,7 +111,7 @@ export default {
           description:
             "Use LIRI, a command line node application, to discover more information about your favorite songs, movies, and artist's concerts!",
           filePath: require("@/assets/devAssets/liri-4.gif"),
-          websiteURL: "",
+          websiteURL: "https://github.com/camille-the-eel/liri",
           githubURL: "https://github.com/camille-the-eel/liri",
           dateYear: 2018,
         },
