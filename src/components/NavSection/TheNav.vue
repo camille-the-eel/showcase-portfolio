@@ -12,7 +12,7 @@ import AccentCircle from "@/components/AccentElements/AccentCircle.vue";
   <header>
     <nav>
       <RouterLink to="/" class="circle"><span>H</span></RouterLink>
-      <MenuIcon class="mobile-menu-icon" @click="viewMenu()" />
+      <MenuIcon class="mobile-menu-icon" @click="viewMobileMenu()" />
       <div
         :class="[
           'nav-link-container',
@@ -22,10 +22,12 @@ import AccentCircle from "@/components/AccentElements/AccentCircle.vue";
         <RouterLink to="/" class="nav-item mobile-nav-home" @click="hideMenu()"
           >HOME</RouterLink
         >
-        <ul class="dropdown-container">
+        <ul class="dropdown-container" @click="toggleDropdown()">
           <li class="nav-work">
             WORK<ChevronDownIcon class="dropdown-icon" />
-            <ul class="dropdown-menu">
+            <ul
+              :class="['dropdown-menu', toggleDropdownMenu ? 'show' : 'hide']"
+            >
               <li>
                 <RouterLink
                   to="/development"
@@ -66,14 +68,18 @@ export default {
   data() {
     return {
       toggleMobileMenu: false,
+      toggleDropdownMenu: false,
     };
   },
   methods: {
-    viewMenu() {
+    viewMobileMenu() {
       this.toggleMobileMenu = true;
     },
     hideMenu() {
       this.toggleMobileMenu = false;
+    },
+    toggleDropdown() {
+      this.toggleDropdownMenu = !this.toggleDropdownMenu;
     },
   },
 };
