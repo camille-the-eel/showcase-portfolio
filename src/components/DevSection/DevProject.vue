@@ -6,6 +6,7 @@
     <div class="project-item-1"></div>
     <div class="project-item-2"></div>
     <div class="project-item-3"></div>
+    <AccentCircle v-if="project.id % 2 != 0" class="dev-circle-accent" />
   </div>
   <div class="project-caption-container">
     <div class="project-dashed-line"></div>
@@ -22,11 +23,13 @@
 
 <script>
 import { ArrowCircleRightIcon } from "@heroicons/vue/solid";
+import AccentCircle from "../AccentElements/AccentCircle.vue";
 
 export default {
   name: "DevPageContentBlock",
   components: {
     ArrowCircleRightIcon,
+    AccentCircle,
   },
   props: {
     project: Object,

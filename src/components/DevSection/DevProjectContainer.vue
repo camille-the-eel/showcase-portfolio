@@ -5,16 +5,24 @@
     class="project-container"
   >
     <DevProject :project="project" />
+    <AccentRules
+      v-if="project.id % 2 === 0"
+      class="dev-rule-accent bottom-align"
+    />
   </div>
 </template>
 
 <script>
 import DevProject from "@/components/DevSection/DevProject.vue";
+import AccentCircle from "../AccentElements/AccentCircle.vue";
+import AccentRules from "../AccentElements/AccentRules.vue";
 
 export default {
   name: "DevProjectContainer",
   components: {
     DevProject,
+    AccentCircle,
+    AccentRules,
   },
   props: {
     devProjects: Array,
@@ -23,12 +31,17 @@ export default {
 </script>
 
 <style>
+.dev-circle-accent,
+.dev-rule-accent {
+  display: none;
+}
+
 /* 825px and up */
 @media (min-width: 51.56em) {
   .project-container {
     display: grid;
     gap: 4em;
-    margin-bottom: 7em;
+    margin-bottom: 8em;
   }
 
   /* LEFT | ZIG */
@@ -96,7 +109,7 @@ export default {
 @media (min-width: 59.375em) {
   .project-container {
     gap: 5em;
-    margin-bottom: 8em;
+    margin-bottom: 10em;
   }
 
   .project-container:nth-child(odd) .project-caption-container {
@@ -109,24 +122,53 @@ export default {
 
   /* ACCENT ELEMENTS */
   /* ---------------------------- */
+  .dev-circle-accent,
+  .dev-rule-accent {
+    display: block;
+    z-index: -1;
+  }
 
   /* LEFT | ZIG */
   /* (circle accents - alternating) */
+  /* jsx in DevProject */
   /* ---------------------------- */
-  /* .project-container:nth-child(odd) {
+  .project-container:nth-child(1) .dev-circle-accent {
+    position: absolute;
+    bottom: -3.5em;
+    right: -3.5em;
+  }
 
-  } */
+  .project-container:nth-child(4n + 3) .dev-circle-accent {
+    position: absolute;
+    top: -3.5em;
+    left: -1.5em;
+  }
+
+  .project-container:nth-child(4n + 5) .dev-circle-accent {
+    position: absolute;
+    top: -3.5em;
+    right: -3em;
+  }
+
+  .project-container:nth-child(4n + 5) .project-dashed-line {
+    display: none;
+  }
 
   /* RIGHT | ZAG  */
   /* (ruled accents) */
   /* ---------------------------- */
+  .dev-rule-accent {
+    position: absolute;
+    right: 1em;
+    top: -9em;
+  }
 }
 
 /* 1200px and up */
 @media (min-width: 81.25em) {
   .project-container {
     gap: 7em;
-    margin-bottom: 9em;
+    margin-bottom: 10em;
   }
 
   .project-container:nth-child(odd) .project-caption-container {
