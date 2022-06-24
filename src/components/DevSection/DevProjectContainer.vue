@@ -7,12 +7,14 @@
     <DevProject :project="project" />
     <AccentRules
       v-if="project.id % 2 === 0"
-      class="dev-rule-accent bottom-align"
+      class="bottom-align"
+      id="dev-rule-accent"
     />
   </div>
 </template>
 
 <script>
+// due to positioning needs, AccentCircle is inside DevProject
 import DevProject from "@/components/DevSection/DevProject.vue";
 import AccentCircle from "../AccentElements/AccentCircle.vue";
 import AccentRules from "../AccentElements/AccentRules.vue";
@@ -32,8 +34,9 @@ export default {
 
 <style>
 .dev-circle-accent,
-.dev-rule-accent {
+#dev-rule-accent {
   display: none;
+  z-index: -1;
 }
 
 /* 825px and up */
@@ -109,7 +112,7 @@ export default {
 @media (min-width: 59.375em) {
   .project-container {
     gap: 5em;
-    margin-bottom: 10em;
+    margin-bottom: 12em;
   }
 
   .project-container:nth-child(odd) .project-caption-container {
@@ -122,10 +125,12 @@ export default {
 
   /* ACCENT ELEMENTS */
   /* ---------------------------- */
-  .dev-circle-accent,
-  .dev-rule-accent {
+  .dev-circle-accent {
     display: block;
-    z-index: -1;
+  }
+
+  #dev-rule-accent {
+    display: grid;
   }
 
   /* LEFT | ZIG */
@@ -140,14 +145,14 @@ export default {
 
   .project-container:nth-child(4n + 3) .dev-circle-accent {
     position: absolute;
-    top: -3.5em;
-    left: -1.5em;
+    top: -4em;
+    left: -1em;
   }
 
   .project-container:nth-child(4n + 5) .dev-circle-accent {
     position: absolute;
-    top: -3.5em;
-    right: -3em;
+    top: -4em;
+    right: -3.25em;
   }
 
   .project-container:nth-child(4n + 5) .project-dashed-line {
@@ -157,7 +162,7 @@ export default {
   /* RIGHT | ZAG  */
   /* (ruled accents) */
   /* ---------------------------- */
-  .dev-rule-accent {
+  #dev-rule-accent {
     position: absolute;
     right: 1em;
     top: -9em;
@@ -168,7 +173,7 @@ export default {
 @media (min-width: 81.25em) {
   .project-container {
     gap: 7em;
-    margin-bottom: 10em;
+    margin-bottom: 12em;
   }
 
   .project-container:nth-child(odd) .project-caption-container {
