@@ -5,8 +5,8 @@
   <div class="design-page-content">
     <p class="mobile-click-notice">Tap for more details.</p>
     <DesignWorkContainer />
+    <AccentRules class="top-align" id="design-view-accent" />
   </div>
-  <!-- <AccentRules class="designWorkAccent" /> -->
   <TheResume />
 </template>
 
@@ -28,7 +28,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .design-page-head {
   margin-top: 1rem;
   margin-bottom: 4rem;
@@ -36,12 +36,16 @@ export default {
 
 .design-page-content {
   max-width: 80%;
-  margin: 0 auto 10rem auto;
+  margin: 0 auto 2rem auto;
   overflow: hidden;
   display: grid;
   grid-template-columns: auto;
   grid-template-rows: auto;
   gap: 2rem;
+}
+
+#design-view-accent {
+  display: none;
 }
 
 /* 475px and up */
@@ -52,9 +56,13 @@ export default {
 
   .design-page-content {
     max-width: 90%;
-    grid-template-columns: repeat(2, auto);
+    grid-template-columns: repeat(2, 1fr);
     grid-template-rows: auto;
     gap: 1rem;
+  }
+
+  #design-view-accent {
+    display: grid;
   }
 }
 
@@ -68,9 +76,12 @@ export default {
 /* 850px and up */
 @media (min-width: 53.125em) {
   .design-page-content {
+    max-width: 75%;
     /* max-width: 100%;
-    grid-template-columns: repeat(3, auto); */
+    grid-template-columns: repeat(3, auto); 
     gap: 2em;
+    */
+    gap: 1em;
   }
 }
 </style>

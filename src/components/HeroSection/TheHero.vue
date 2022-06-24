@@ -12,7 +12,7 @@ import AccentRules from "@/components/AccentElements/AccentRules.vue";
     </h1>
     <div class="hero-desktop-rule"></div>
     <div class="hero-header-container">
-      <AccentRules class="accent-rules-component" />
+      <AccentRules class="right-align" id="homepage-tablet-accent" />
       <div class="hero-header-wrapper main-item-0">
         <RouterLink to="/development">
           <HeroHeader
@@ -33,18 +33,19 @@ import AccentRules from "@/components/AccentElements/AccentRules.vue";
           />
         </RouterLink>
       </div>
-      <AccentCircle class="heroAccent" />
+      <AccentCircle class="hero-accent" />
     </div>
   </div>
 </template>
 
 <style scoped>
-.heroAccent {
+.hero-accent {
   display: none;
 }
 
-.accent-rules-component {
+#homepage-tablet-accent {
   display: none;
+  margin-left: 40px;
 }
 
 .hero-title {
@@ -52,7 +53,7 @@ import AccentRules from "@/components/AccentElements/AccentRules.vue";
   font-weight: 300;
   margin-bottom: 7rem;
   margin-left: 6vw;
-  margin-top: 3vh;
+  margin-top: 5vh;
   margin-right: 4rem;
 }
 
@@ -70,12 +71,13 @@ import AccentRules from "@/components/AccentElements/AccentRules.vue";
 }
 
 @media (min-width: 31em) and (max-width: 48.9999999em) {
-  .heroAccent {
+  .hero-accent {
     display: block;
   }
-  .accent-rules-component {
-    place-self: end;
+
+  #homepage-tablet-accent {
     display: grid;
+    place-self: end;
     margin-bottom: 1em;
   }
 
