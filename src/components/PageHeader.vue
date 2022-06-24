@@ -25,7 +25,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .ruled-accent-container {
   overflow: hidden;
   margin-top: 5rem;

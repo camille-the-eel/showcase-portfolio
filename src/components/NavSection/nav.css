@@ -173,7 +173,7 @@ a:hover.nav-item {
   .dropdown-menu {
     padding: default;
     width: 12rem;
-    background-color: rgb(23, 17, 17);
+    background-color: #fff;
     margin-left: 0;
     padding-left: 0.4rem;
     z-index: 1;
