@@ -111,6 +111,41 @@
   grid-row: 1 / -1;
 }
 
+/* ALIGNED TO BOTTOM */
+/* ---------------- */
+.bottom-align.accent-rules-container {
+  display: grid;
+  height: 15rem;
+  width: 8rem;
+  grid-template-rows: 1fr 1.75fr 4fr 0.25fr;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.bottom-align .accent-rule {
+  margin-bottom: 1rem;
+  width: 0.125rem;
+  background: repeating-linear-gradient(
+    to top,
+    var(--color-accent-light) 0,
+    var(--color-accent-light) 0.75rem,
+    transparent 0.75rem,
+    transparent 1.5rem
+  );
+}
+.bottom-align .rule-1,
+.bottom-align .rule-5 {
+  grid-row: 3 / -2;
+}
+
+.bottom-align .rule-2,
+.bottom-align .rule-4 {
+  grid-row: 2 / -2;
+}
+
+.bottom-align .rule-3 {
+  grid-row: 1 / -2;
+}
+
 /* Flex option */
 /* .accent-rules-container {
   margin-left: 40px;
