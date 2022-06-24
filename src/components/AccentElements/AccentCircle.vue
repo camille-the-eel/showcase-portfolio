@@ -24,7 +24,7 @@ export default {
 @import "../NavSection/navAccentCircle.css";
 
 /* HERO USE CASE CSS */
-.heroAccent .circle-bounding-box {
+.hero-accent .circle-bounding-box {
   position: relative;
   transform: translate(60%, -7%);
 }
