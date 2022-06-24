@@ -40,7 +40,7 @@ export default {
         {
           id: 2,
           title: "Cocktail Roulette",
-          tags: ["APIs", "Javascript", "JSON", "HTML", "CSS"],
+          tags: ["API", "Javascript", "JSON", "HTML", "CSS"],
           description:
             "A vanilla javascript web application– enter an ingredient, and you'll be told what drink you'll be having tonight, plus some \"close calls\", utilizing TheCocktailDB API.",
           filePath: require("@/assets/devAssets/portfolio-thumbnail_cocktailRoulette.jpg"),
@@ -63,7 +63,7 @@ export default {
         {
           id: 4,
           title: "Bike To Brew",
-          tags: ["APIs", "Javascript", "JQuery", "HTML", "CSS"],
+          tags: ["API", "Javascript", "JQuery", "HTML", "CSS"],
           description:
             "Collaborative project: a responsive site that connects mountain bikers and beer enthusiasts to breweries and mountain trails near one another. Users are able to map search breweries and mountain biking trails together based on chosen location, brewery, or trail.",
           filePath: require("@/assets/devAssets/b2b.jpg"),
@@ -96,7 +96,7 @@ export default {
         {
           id: 7,
           title: "Giftastic",
-          tags: ["APIs", "Javascript", "JSON"],
+          tags: ["API", "Javascript", "JSON"],
           description:
             "Click to play/stop gifs of any topic of your choice on a dynamic web page that utilizes the GIPHY API.",
           filePath: require("@/assets/devAssets/giftastic.jpg"),
@@ -107,7 +107,7 @@ export default {
         {
           id: 8,
           title: "LIRI Bot",
-          tags: ["Javascript", "Node.js"],
+          tags: ["Javascript", "Node.js", "API"],
           description:
             "Use LIRI, a command line node application, to discover more information about your favorite songs, movies, and artist's concerts!",
           filePath: require("@/assets/devAssets/liri-4.gif"),

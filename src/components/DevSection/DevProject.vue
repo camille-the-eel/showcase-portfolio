@@ -8,13 +8,11 @@
     <div class="project-item-3"></div>
   </div>
   <div class="project-caption-container">
-    <!-- <h6 :key="i" v-for="(tag, i) in project.tags">
-        {{ tag }}
-      </h6> -->
+    <div class="project-dashed-line"></div>
     <h6 class="project-h6">{{ projectTags }}</h6>
     <h1 class="project-h1">{{ project.title }}</h1>
     <p class="project-p">{{ project.description }}</p>
-    <p class="project-year">&#169;{{ project.dateYear }}</p>
+    <p class="project-year">{{ project.dateYear }}</p>
     <a :href="project.githubURL" class="project-link"
       ><ArrowCircleRightIcon class="project-icon" />click here to read my code
       on Github</a
@@ -41,7 +39,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .project-img-container {
   width: 100vw;
   display: flex;
@@ -79,6 +77,10 @@ export default {
   margin-bottom: 1.3rem;
 }
 
+.project-dashed-line {
+  margin-bottom: 1.3rem;
+}
+
 .project-p {
   font-weight: 300;
   margin-bottom: 0.6rem;
@@ -86,6 +88,7 @@ export default {
 
 .project-year {
   /* font-weight: 800; */
+  font-size: 14px;
   margin-bottom: 2.3rem;
 }
 
@@ -124,6 +127,19 @@ export default {
     height: 1.5rem;
     background-color: #fff;
     border-bottom: 0.1em solid var(--color-accent-dark);
+  }
+
+  .project-dashed-line {
+    z-index: -1;
+    height: 0.1rem;
+    width: 70rem;
+    background: repeating-linear-gradient(
+      to right,
+      var(--color-accent-medium) 0,
+      var(--color-accent-medium) 0.75rem,
+      transparent 0.75rem,
+      transparent 1.5rem
+    );
   }
 }
 </style>
