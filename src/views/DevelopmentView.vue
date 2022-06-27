@@ -33,8 +33,8 @@ export default {
           description:
             "Portfolio website designed and developed to showcase work, utilizing Vue3, Vue Router, and Vuex.",
           filePath: require("@/assets/devAssets/portfolio-thumbnail_portfolio.jpg"),
-          websiteURL: "https://github.com/camille-the-eel/portfolio-site",
-          githubURL: "https://github.com/camille-the-eel/portfolio-site",
+          websiteURL: "/",
+          githubURL: "https://github.com/camille-the-eel/showcase-portfolio",
           dateYear: 2022,
         },
         {
