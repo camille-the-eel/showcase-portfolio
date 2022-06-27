@@ -1,6 +1,6 @@
 <template>
   <div class="file-wrapper">
-    <img :src="require('@/assets/CamilleHughesResume_2022.png')" class="file" />
+    <img :src="require('@/assets/CamilleHughesResume_2022.svg')" class="file" />
   </div>
 </template>
 
