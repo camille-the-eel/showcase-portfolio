@@ -1,6 +1,6 @@
 <template>
   <RouterLink
-    :to="`/designing/${work.routeName}`"
+    :to="`/design/${work.routeName}`"
     class="work-wrapper"
     :route-name="work.routeName"
   >
