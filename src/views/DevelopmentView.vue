@@ -31,7 +31,7 @@ export default {
           title: "Portfolio site",
           tags: ["Vue", "CSS", "HTML", "Javascript"],
           description:
-            "Portfolio website designed and developed to showcase work.",
+            "Portfolio website designed and developed to showcase work, utilizing Vue3, Vue Router, and Vuex.",
           filePath: require("@/assets/devAssets/portfolio-thumbnail_portfolio.jpg"),
           websiteURL: "https://github.com/camille-the-eel/portfolio-site",
           githubURL: "https://github.com/camille-the-eel/portfolio-site",
