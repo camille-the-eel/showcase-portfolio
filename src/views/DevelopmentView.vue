@@ -28,6 +28,17 @@ export default {
       devProjects: [
         {
           id: 1,
+          title: "Little Bar Book",
+          tags: ["Vue", "MySQL", "Sequelize", "Express", "HTML", "Javascript"],
+          description:
+            "In progress | Protoytpe web application to store and browse cocktail recipes. Currently complete: CRUD. Coming soon: Sort By options, pagination",
+          filePath: require("@/assets/devAssets/portfolio-thumbnail_LBB0.png"),
+          websiteURL: "https://github.com/camille-the-eel/bar-book_v0",
+          githubURL: "https://github.com/camille-the-eel/bar-book_v0",
+          dateYear: 2022,
+        },
+        {
+          id: 2,
           title: "Portfolio site",
           tags: ["Vue", "CSS", "HTML", "Javascript"],
           description:
@@ -38,7 +49,7 @@ export default {
           dateYear: 2022,
         },
         {
-          id: 2,
+          id: 3,
           title: "Cocktail Roulette",
           tags: ["API", "Javascript", "JSON", "HTML", "CSS"],
           description:
@@ -49,7 +60,7 @@ export default {
           dateYear: 2022,
         },
         {
-          id: 3,
+          id: 4,
           title: "T|F Hotels",
           tags: ["MySQL", "Express", "Node.js", "Bulma-CSS"],
           description:
@@ -61,7 +72,7 @@ export default {
           dateYear: 2019,
         },
         {
-          id: 4,
+          id: 5,
           title: "Bike To Brew",
           tags: ["API", "Javascript", "JQuery", "HTML", "CSS"],
           description:
@@ -72,7 +83,7 @@ export default {
           dateYear: 2018,
         },
         {
-          id: 5,
+          id: 6,
           title: "Bamazon",
           tags: ["MySQL", "Node.js", "Javascript"],
           description:
@@ -83,7 +94,7 @@ export default {
           dateYear: 2019,
         },
         {
-          id: 6,
+          id: 7,
           title: "Burger App",
           tags: ["MySQL", "Express-handlebars", "JQuery"],
           description:
@@ -94,7 +105,7 @@ export default {
           dateYear: 2019,
         },
         {
-          id: 7,
+          id: 8,
           title: "Giftastic",
           tags: ["API", "Javascript", "JSON"],
           description:
@@ -105,7 +116,7 @@ export default {
           dateYear: 2018,
         },
         {
-          id: 8,
+          id: 9,
           title: "LIRI Bot",
           tags: ["Javascript", "Node.js", "API"],
           description:
@@ -116,7 +127,7 @@ export default {
           dateYear: 2018,
         },
         {
-          id: 9,
+          id: 10,
           title: "Word-Guess Game",
           tags: ["Javascript", "HTML", "CSS"],
           description:
@@ -127,7 +138,7 @@ export default {
           dateYear: 2018,
         },
         {
-          id: 10,
+          id: 11,
           title: "Crystal Collector",
           tags: ["Javascript", "JQuery", "HTML", "CSS"],
           description:
