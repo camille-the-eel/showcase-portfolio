@@ -71,19 +71,19 @@ export default {
             "https://github.com/camille-the-eel/tf-hotel-management-app",
           dateYear: 2019,
         },
+        // {
+        //   id: 5,
+        //   title: "Bike To Brew",
+        //   tags: ["API", "Javascript", "JQuery", "HTML", "CSS"],
+        //   description:
+        //     "Collaborative project: a responsive site that connects mountain bikers and beer enthusiasts to breweries and mountain trails near one another. Users are able to map search breweries and mountain biking trails together based on chosen location, brewery, or trail.",
+        //   filePath: require("@/assets/devAssets/b2b.jpg"),
+        //   websiteURL: "https://camille-the-eel.github.io/bike-to-brew/",
+        //   githubURL: "https://github.com/camille-the-eel/bike-to-brew",
+        //   dateYear: 2018,
+        // },
         {
           id: 5,
-          title: "Bike To Brew",
-          tags: ["API", "Javascript", "JQuery", "HTML", "CSS"],
-          description:
-            "Collaborative project: a responsive site that connects mountain bikers and beer enthusiasts to breweries and mountain trails near one another. Users are able to map search breweries and mountain biking trails together based on chosen location, brewery, or trail.",
-          filePath: require("@/assets/devAssets/b2b.jpg"),
-          websiteURL: "https://camille-the-eel.github.io/bike-to-brew/",
-          githubURL: "https://github.com/camille-the-eel/bike-to-brew",
-          dateYear: 2018,
-        },
-        {
-          id: 6,
           title: "Bamazon",
           tags: ["MySQL", "Node.js", "Javascript"],
           description:
@@ -94,7 +94,7 @@ export default {
           dateYear: 2019,
         },
         {
-          id: 7,
+          id: 6,
           title: "Burger App",
           tags: ["MySQL", "Express-handlebars", "JQuery"],
           description:
@@ -105,7 +105,7 @@ export default {
           dateYear: 2019,
         },
         {
-          id: 8,
+          id: 7,
           title: "Giftastic",
           tags: ["API", "Javascript", "JSON"],
           description:
@@ -116,7 +116,7 @@ export default {
           dateYear: 2018,
         },
         {
-          id: 9,
+          id: 8,
           title: "LIRI Bot",
           tags: ["Javascript", "Node.js", "API"],
           description:
@@ -127,7 +127,7 @@ export default {
           dateYear: 2018,
         },
         {
-          id: 10,
+          id: 9,
           title: "Word-Guess Game",
           tags: ["Javascript", "HTML", "CSS"],
           description:
@@ -138,7 +138,7 @@ export default {
           dateYear: 2018,
         },
         {
-          id: 11,
+          id: 10,
           title: "Crystal Collector",
           tags: ["Javascript", "JQuery", "HTML", "CSS"],
           description:
