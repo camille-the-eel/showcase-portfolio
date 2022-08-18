@@ -15,139 +15,135 @@
 	.st9{font-family:'Helvetica-Light';}
 	.st10{font-size:36px;}
 	.st11{fill:none;stroke:#231F20;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
-	.st12{fill:#3B97D3;}
-	.st13{fill:#FFFFFF;}
-	.st14{fill:none;stroke:#D1D3D4;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
-	.st15{fill:#D1D3D4;}
-	.st16{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st17{fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10;}
-	.st18{opacity:0.49;fill:#859193;}
-	.st19{fill:none;stroke:#231F20;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#D1D3D4;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st13{fill:#D1D3D4;}
+	.st14{opacity:0.49;fill:#859193;}
+	.st15{fill:none;stroke:#231F20;stroke-miterlimit:10;}
+	.st16{fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10;}
 </style>
 <g id="BASELINE__x2B__GRID">
 </g>
 <g id="TYPE">
-	<rect x="55.7" y="222.3" class="st1" width="443.9" height="41.8"/>
-	<text transform="matrix(1 0 0 1 55.6737 230.9136)"><tspan x="0" y="0" class="st2 st3 st4">Web Development Coding Bootcamp  </tspan><tspan x="217.3" y="0" class="st2 st5 st4">University of Richmond</tspan><tspan x="0" y="15" class="st2 st6 st7">Javascript, HTML, CSS, React, MySQL, Node.js, Express, Mongo, Git</tspan></text>
+	<rect x="55.7" y="318.3" class="st1" width="443.9" height="41.8"/>
+	<text transform="matrix(1 0 0 1 55.6737 326.9382)"><tspan x="0" y="0" class="st2 st3 st4">Full-stack Software Developer Bootcamp  </tspan><tspan x="240.1" y="0" class="st2 st5 st4">University of Richmond</tspan><tspan x="0" y="15" class="st2 st6 st7">React, Javascript, HTML, CSS, Bootstrap, MySQL, MongoDB, Node.js, Express, Git</tspan></text>
 	<g>
-		<rect x="33.2" y="78.6" class="st1" width="196" height="16.2"/>
-		<text transform="matrix(1 0 0 1 33.184 93.0002)" class="st2 st3 st8">Relevant experience</text>
+		<rect x="33.2" y="174.7" class="st1" width="196" height="16.2"/>
+		<text transform="matrix(1 0 0 1 33.184 189.0248)" class="st2 st3 st8">Relevant experience</text>
 	</g>
 	<g>
-		<rect x="33.2" y="264.6" class="st1" width="162.9" height="15.4"/>
-		<text transform="matrix(1 0 0 1 33.184 278.9984)" class="st2 st3 st8">Work experience</text>
+		<rect x="33.2" y="363.7" class="st1" width="162.9" height="15.4"/>
+		<text transform="matrix(1 0 0 1 33.184 378.0719)" class="st2 st3 st8">Work experience</text>
 	</g>
-	<rect x="55.7" y="165.4" class="st1" width="523.5" height="46.9"/>
-	<text transform="matrix(1 0 0 1 55.6736 174.0355)"><tspan x="0" y="0" class="st2 st3 st4">Showcase Website  </tspan><tspan x="114.7" y="0" class="st2 st5 st4">camillemhughes.com</tspan><tspan x="0" y="18" class="st2 st9 st4">Multi-page front-end web application developed and designed to showcase projects.</tspan><tspan x="0" y="33" class="st2 st6 st7">Vue3, HTML, CSS, Javascript, Adobe Xd</tspan></text>
-	<text transform="matrix(1 0 0 1 32.469 53.872)"><tspan x="0" y="0" class="st2 st3 st10">Ca</tspan><tspan x="46" y="0" class="st2 st3 st10">m</tspan><tspan x="78.7" y="0" class="st2 st3 st10">ille </tspan><tspan x="138.8" y="0" class="st2 st3 st10">H</tspan><tspan x="164.1" y="0" class="st2 st3 st10">ughes</tspan></text>
-	<rect x="55.7" y="492.4" class="st1" width="327.3" height="43.2"/>
-	<text transform="matrix(1 0 0 1 55.674 500.9838)"><tspan x="0" y="0" class="st3 st4">Graphic Designer</tspan><tspan x="0" y="15" class="st5 st4">Hotel Greene, Richmond, VA</tspan><tspan x="0" y="30" class="st5 st4">Freelance, Richmond, VA</tspan></text>
+	<rect x="55.7" y="261.4" class="st1" width="523.5" height="46.9"/>
+	<text transform="matrix(1 0 0 1 55.6736 270.0601)"><tspan x="0" y="0" class="st2 st3 st4">Showcase Website  </tspan><tspan x="114.7" y="0" class="st2 st5 st4">camillemhughes.com</tspan><tspan x="0" y="18" class="st2 st9 st4">Multi-page front-end web application developed and designed to showcase projects.</tspan><tspan x="0" y="33" class="st2 st6 st7">Vue3, Javascript, HTML, CSS, Git, Adobe Xd</tspan></text>
+	<text transform="matrix(1 0 0 1 32.469 54.0139)"><tspan x="0" y="0" class="st2 st3 st10">Ca</tspan><tspan x="46" y="0" class="st2 st3 st10">m</tspan><tspan x="78.7" y="0" class="st2 st3 st10">ille </tspan><tspan x="138.8" y="0" class="st2 st3 st10">H</tspan><tspan x="164.1" y="0" class="st2 st3 st10">ughes</tspan></text>
+	<rect x="55.7" y="591.4" class="st1" width="157.9" height="43.2"/>
+	<text transform="matrix(1 0 0 1 55.674 600.0573)"><tspan x="0" y="0" class="st3 st4">Graphic Designer</tspan><tspan x="0" y="15" class="st5 st4">Freelance, Richmond, VA</tspan><tspan x="0" y="30" class="st5 st4">Hotel Greene, Richmond, VA</tspan></text>
 	<g>
-		<text transform="matrix(1 0 0 1 459.9968 229.6241)" class="st2 st6 st7"> Oct 2018—May 2019</text>
+		<text transform="matrix(1 0 0 1 459.9968 325.6487)" class="st2 st6 st7"> Oct 2018—May 2019</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 443.4865 530.3771)" class="st2 st6 st7">      Dec 2015—Dec 2020</text>
+		<text transform="matrix(1 0 0 1 428.195 629.4506)" class="st2 st6 st7">           Aug 2019—Dec 2021</text>
 	</g>
 	<g>
 		<g>
-			<line class="st11" x1="237.5" y1="86.4" x2="566.9" y2="86.4"/>
+			<line class="st11" x1="237.5" y1="182.4" x2="566.9" y2="182.4"/>
 			<g>
-				<rect x="235.9" y="84.8" class="st2" width="3.3" height="3.3"/>
+				<rect x="235.9" y="180.8" class="st2" width="3.3" height="3.3"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st11" x1="202.9" y1="272.2" x2="566.9" y2="272.2"/>
+			<line class="st11" x1="202.9" y1="371.2" x2="566.9" y2="371.2"/>
 			<g>
-				<rect x="201.3" y="270.5" class="st2" width="3.3" height="3.3"/>
+				<rect x="201.3" y="369.6" class="st2" width="3.3" height="3.3"/>
 			</g>
 		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 452.655 515.5468)" class="st2 st6 st7">      Aug 2019—Present</text>
-	</g>
-	<rect x="55.7" y="334.7" class="st1" width="385.4" height="44.4"/>
-	<text transform="matrix(1 0 0 1 55.6737 345.0292)"><tspan x="0" y="0" class="st3 st4">Chief Operating Officer  </tspan><tspan x="138.7" y="0" class="st5 st4">Hotel Greene, Richmond, VA</tspan><tspan x="0" y="15" class="st2 st6 st7">Promoted from: Operations Manager | Mar 2020—Mar 2021</tspan><tspan x="0" y="30" class="st2 st6 st7">Promoted from: Front of House Manager/Staff Manager | Aug 2019—Mar 2020</tspan></text>
-	<rect x="73.5" y="385" class="st1" width="495" height="99.1"/>
-	<text transform="matrix(1 0 0 1 73.4571 392.9109)"><tspan x="0" y="0" class="st5 st7">Led management team: fostered collaboration, ensured target outcomes for special events,  </tspan><tspan x="0" y="15" class="st5 st7">and managed deadlines for all operational and marketing milestones</tspan><tspan x="0" y="33" class="st5 st7">Formulated new customer and staff business infrastructure to meet the shifting demands of </tspan><tspan x="0" y="48" class="st5 st7">COVID-19 while increasing positive customer satisfaction by 7% in feedback results</tspan><tspan x="0" y="66" class="st5 st7">Devised employee growth strategies and feedback cycles, resulting in 92% employee retention rate</tspan><tspan x="0" y="84" class="st5 st7">Created staff onboarding and training policies, cutting training labor costs by 22%</tspan></text>
-	<g>
-		<text transform="matrix(1 0 0 1 446.5322 344.0077)" class="st2 st6 st7">     Aug 2019—Dec 2021</text>
-	</g>
-	<polygon points="67.2,388.6 67.2,387.4 68.8,388 70.3,388.6 68.8,389.2 67.2,389.8 	"/>
-	<polygon points="67.2,421.5 67.2,420.3 68.8,420.9 70.3,421.5 68.8,422.1 67.2,422.7 	"/>
-	<polygon points="67.2,454.5 67.2,453.4 68.8,453.9 70.3,454.5 68.8,455.1 67.2,455.7 	"/>
-	<polygon points="67.2,472.6 67.2,471.4 68.8,472 70.3,472.6 68.8,473.2 67.2,473.7 	"/>
-	<rect x="55.7" y="292.6" class="st1" width="459.8" height="10.4"/>
-	<text transform="matrix(1 0 0 1 55.6737 302.9368)"><tspan x="0" y="0" class="st3 st4">Operations and Brand Advisor  </tspan><tspan x="180.7" y="0" class="st5 st4">Hotel Greene, Richmond, VA </tspan></text>
-	<g>
-		<text transform="matrix(1 0 0 1 468.5429 302.0062)" class="st2 st6 st7">   Jan 2022–Present</text>
-	</g>
-	<rect x="55.7" y="597.3" class="st1" width="320.8" height="26.3"/>
-	<text transform="matrix(1 0 0 1 55.674 605.9615)"><tspan x="0" y="0" class="st3 st4">Shift Supervisor  </tspan><tspan x="99.4" y="0" class="st5 st4">Greenleaf’s Pool Room, Richmond, VA</tspan><tspan x="0" y="15" class="st2 st6 st7">Promoted from: Head Server | Nov 2015—May 2017</tspan></text>
-	<g>
-		<text transform="matrix(1 0 0 1 443.9262 605.2628)"><tspan x="0" y="0" class="st2 st6 st7">      Nov </tspan><tspan x="41" y="0" class="st2 st6 st7">2</tspan><tspan x="47.3" y="0" class="st2 st6 st7">0</tspan><tspan x="53.2" y="0" class="st2 st6 st7">1</tspan><tspan x="58.9" y="0" class="st2 st6 st7">5—Nov 2019</tspan></text>
+		<rect x="37.6" y="70.1" class="st1" width="521.5" height="38.2"/>
+		<text transform="matrix(1 0 0 1 37.5815 77.9817)"><tspan x="0" y="0" class="st2 st6 st7">Enthusiastic web developer seeking growth-oriented work environment, pivoting careers from design and </tspan><tspan x="0" y="15" class="st2 st6 st7">operations management into web development. Strong communication and time/project management </tspan><tspan x="0" y="30" class="st2 st6 st7">skills. Self-driven and eager to leverage my diverse range of talents in a new and engaging setting.</tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 542.5288 172.8981)" class="st2 st6 st7">2022</text>
+		<text transform="matrix(1 0 0 1 467.9465 614.6202)" class="st2 st6 st7"> Dec 2015—Present</text>
+	</g>
+	<rect x="55.7" y="433.8" class="st1" width="385.4" height="44.4"/>
+	<text transform="matrix(1 0 0 1 55.6737 444.1027)"><tspan x="0" y="0" class="st3 st4">Chief Operating Officer  </tspan><tspan x="138.7" y="0" class="st5 st4">Hotel Greene, Richmond, VA</tspan><tspan x="0" y="15" class="st2 st6 st7">Promoted from: Operations Manager | Mar 2020—Mar 2021</tspan><tspan x="0" y="30" class="st2 st6 st7">Promoted from: Front of House Manager/Staff Manager | Aug 2019—Mar 2020</tspan></text>
+	<rect x="73.5" y="484.1" class="st1" width="495" height="99.1"/>
+	<text transform="matrix(1 0 0 1 73.4571 491.9844)"><tspan x="0" y="0" class="st5 st7">Led management team: fostered collaboration, ensured target outcomes for special events,  </tspan><tspan x="0" y="15" class="st5 st7">and managed deadlines for all operational and marketing milestones</tspan><tspan x="0" y="33" class="st5 st7">Formulated new customer and staff business infrastructure to meet the shifting demands of </tspan><tspan x="0" y="48" class="st5 st7">COVID-19 while increasing positive customer satisfaction by 7% in feedback results</tspan><tspan x="0" y="66" class="st5 st7">Devised employee growth strategies and feedback cycles, resulting in 92% employee retention rate</tspan><tspan x="0" y="84" class="st5 st7">Created staff onboarding and training policies, cutting training labor costs by 22%</tspan></text>
+	<g>
+		<text transform="matrix(1 0 0 1 446.5322 443.0812)" class="st2 st6 st7">     Aug 2019—Dec 2021</text>
+	</g>
+	<polygon points="67.2,487.7 67.2,486.5 68.8,487.1 70.3,487.7 68.8,488.3 67.2,488.9 	"/>
+	<polygon points="67.2,520.6 67.2,519.4 68.8,520 70.3,520.6 68.8,521.2 67.2,521.8 	"/>
+	<polygon points="67.2,553.6 67.2,552.4 68.8,553 70.3,553.6 68.8,554.2 67.2,554.8 	"/>
+	<polygon points="67.2,571.6 67.2,570.5 68.8,571.1 70.3,571.6 68.8,572.2 67.2,572.8 	"/>
+	<rect x="55.7" y="391.7" class="st1" width="459.8" height="10.4"/>
+	<text transform="matrix(1 0 0 1 55.6737 402.0103)"><tspan x="0" y="0" class="st3 st4">Operations and Brand Advisor  </tspan><tspan x="180.7" y="0" class="st5 st4">Hotel Greene, Richmond, VA </tspan></text>
+	<g>
+		<text transform="matrix(1 0 0 1 468.5429 401.0797)" class="st2 st6 st7">   Jan 2022–Present</text>
 	</g>
 	<g>
-		<rect x="315.6" y="31.2" class="st1" width="251.4" height="28.7"/>
-		<text transform="matrix(1 0 0 1 350.1903 39.1367)"><tspan x="0" y="0" class="st2 st6 st7">hughescamillem@gmail.com | </tspan><tspan x="149.7" y="0" class="st2 st6 st7">7</tspan><tspan x="155.6" y="0" class="st2 st6 st7">03.341.7898</tspan><tspan x="34.2" y="15" class="st2 st6 st7">camillemhughes.com | Richmond, VA</tspan></text>
+		<text transform="matrix(1 0 0 1 542.5288 268.9227)" class="st2 st6 st7">2022</text>
 	</g>
 	<g>
-		<rect x="33.2" y="690.6" class="st1" width="113.7" height="24"/>
-		<text transform="matrix(1 0 0 1 33.184 704.9746)" class="st2 st3 st8">Education</text>
+		<rect x="315.6" y="28.1" class="st1" width="251.4" height="28.7"/>
+		<text transform="matrix(1 0 0 1 350.1903 35.9972)"><tspan x="0" y="0" class="st2 st6 st7">hughescamillem@gmail.com | </tspan><tspan x="149.7" y="0" class="st2 st6 st7">7</tspan><tspan x="155.6" y="0" class="st2 st6 st7">03.341.7898</tspan><tspan x="34.2" y="15" class="st2 st6 st7">camillemhughes.com | Richmond, VA</tspan></text>
+	</g>
+	<g>
+		<rect x="33.2" y="702.7" class="st1" width="113.7" height="24"/>
+		<text transform="matrix(1 0 0 1 33.184 717.0404)" class="st2 st3 st8">Education</text>
 	</g>
 	<g>
 		<g>
-			<line class="st11" x1="140.4" y1="698.2" x2="566.9" y2="698.2"/>
+			<line class="st11" x1="140.4" y1="710.3" x2="566.9" y2="710.3"/>
 			<g>
-				<rect x="138.8" y="696.6" class="st2" width="3.3" height="3.3"/>
+				<rect x="138.8" y="708.6" class="st2" width="3.3" height="3.3"/>
 			</g>
 		</g>
 	</g>
-	<rect x="55.7" y="720.3" class="st1" width="520.1" height="12"/>
-	<text transform="matrix(1 0 0 1 55.6737 728.9319)"><tspan x="0" y="0" class="st2 st3 st4">B.F.A. Communication Arts </tspan><tspan x="159.3" y="0" class="st5 st4">Virginia Commonwealth University</tspan></text>
+	<rect x="55.7" y="732.4" class="st1" width="520.1" height="12"/>
+	<text transform="matrix(1 0 0 1 55.6737 741.0042)"><tspan x="0" y="0" class="st2 st3 st4">B.F.A. Communication Arts </tspan><tspan x="159.3" y="0" class="st5 st4">Virginia Commonwealth University</tspan></text>
 	<g>
-		<text transform="matrix(1 0 0 1 442.2565 727.7672)" class="st2 st6 st7">      Aug 2011—May 2015</text>
+		<text transform="matrix(1 0 0 1 442.2565 739.8394)" class="st2 st6 st7">      Aug 2011—May 2015</text>
 	</g>
 	<g>
-		<rect x="33.2" y="639.7" class="st1" width="70.8" height="24"/>
-		<text transform="matrix(1 0 0 1 33.184 654.0517)" class="st2 st3 st8">Skills</text>
+		<rect x="33.2" y="123.6" class="st1" width="70.8" height="24"/>
+		<text transform="matrix(1 0 0 1 33.184 137.9742)" class="st2 st3 st8">Skills</text>
 	</g>
 	<g>
 		<g>
-			<line class="st11" x1="96" y1="647.1" x2="566.9" y2="647.1"/>
+			<line class="st11" x1="96" y1="131" x2="566.9" y2="131"/>
 			<g>
-				<rect x="94.4" y="645.4" class="st2" width="3.3" height="3.3"/>
+				<rect x="94.4" y="129.4" class="st2" width="3.3" height="3.3"/>
 			</g>
 		</g>
 	</g>
 	<g>
-		<rect x="55.7" y="667" class="st1" width="520.1" height="11.8"/>
-		<text transform="matrix(1 0 0 1 55.6737 674.9661)" class="st2 st9 st7">Javascript, Vue, React, HTML, CSS, Express, Node.js, Git, APIs, MySQL, Mongo, Adobe CC</text>
+		<rect x="55.7" y="151" class="st1" width="520.1" height="11.8"/>
+		<text transform="matrix(1 0 0 1 55.6737 158.8997)" class="st2 st9 st7">Javascript, Vue, React, HTML, CSS, Express, Node.js, Git, APIs, MySQL, MongoDB, Adobe CC</text>
 	</g>
 	<g>
-		<rect x="37.9" y="758.2" class="st1" width="303.5" height="16.5"/>
-		<text transform="matrix(1 0 0 1 37.885 766.1017)" class="st2 st6 st7">linkedin.com/in/camillemhughes | github.com/camille-the-eel</text>
+		<rect x="37.9" y="763.2" class="st1" width="303.5" height="16.5"/>
+		<text transform="matrix(1 0 0 1 37.885 771.125)" class="st2 st6 st7">linkedin.com/in/camillemhughes  |   github.com/camille-the-eel</text>
 	</g>
-	<rect x="55.7" y="108.3" class="st1" width="523.5" height="46.9"/>
-	<text transform="matrix(1 0 0 1 55.6736 116.9658)"><tspan x="0" y="0" class="st2 st3 st4">‘Little Bar Book’ Prototype  </tspan><tspan x="158" y="0" class="st2 st5 st4">github.com/camille-the-eel/bar-book_v0</tspan><tspan x="0" y="18" class="st2 st9 st4">Full-stack web application for storing, browsing, and sharing cocktail recipes.</tspan><tspan x="0" y="33" class="st2 st6 st7">Vue3, HTML, Javascript, MySQL, Sequelize, Node,js, Express, Git</tspan></text>
+	<rect x="55.7" y="204.4" class="st1" width="523.5" height="46.9"/>
+	<text transform="matrix(1 0 0 1 55.6736 212.9899)"><tspan x="0" y="0" class="st2 st3 st4">‘Little Bar Book’ Prototype  </tspan><tspan x="158" y="0" class="st2 st5 st4">github.com/camille-the-eel/bar-book_v0</tspan><tspan x="0" y="18" class="st2 st9 st4">Full-stack web application for storing, browsing, and sharing cocktail recipes.</tspan><tspan x="0" y="33" class="st2 st6 st7">Vue3, Javascript, HTML, CSS, MySQL, Sequelize, Node,js, Express, Git</tspan></text>
 	<g>
-		<text transform="matrix(1 0 0 1 542.5288 115.8285)" class="st2 st6 st7">2022</text>
+		<text transform="matrix(1 0 0 1 542.5288 211.8531)" class="st2 st6 st7">2022</text>
 	</g>
 	<g>
-		<rect x="73.5" y="313" class="st1" width="495.8" height="12.4"/>
-		<text transform="matrix(1 0 0 1 73.457 320.9539)" class="st5 st7">Identified key brand and business strategies; analyzed new business development opportunities</text>
+		<rect x="73.5" y="412.1" class="st1" width="495.8" height="12.4"/>
+		<text transform="matrix(1 0 0 1 73.457 420.0274)" class="st5 st7">Identified key brand and business strategies; analyzed new business development opportunities</text>
 	</g>
-	<polygon points="67.2,316.5 67.2,315.3 68.8,315.9 70.3,316.5 68.8,317.1 67.2,317.7 	"/>
+	<polygon points="67.2,415.6 67.2,414.4 68.8,415 70.3,415.6 68.8,416.2 67.2,416.8 	"/>
 	<g>
-		<rect x="73.5" y="539.6" class="st1" width="494.2" height="44.6"/>
-		<text transform="matrix(1 0 0 1 73.457 549.023)"><tspan x="0" y="0" class="st5 st7">Conceptualized and designed print and marketing materials, including marketing campaigns that </tspan><tspan x="0" y="15" class="st5 st7">resulted in 110% ticket sales; collaborated with illustrators, publishers, and printers</tspan><tspan x="0" y="33" class="st5 st7">Devised brand strategy; managed brand assets and enforced brand guidelines</tspan></text>
+		<rect x="73.5" y="638.6" class="st1" width="494.2" height="44.6"/>
+		<text transform="matrix(1 0 0 1 73.457 648.0965)"><tspan x="0" y="0" class="st5 st7">Conceptualized and designed print and marketing materials, including marketing campaigns that </tspan><tspan x="0" y="15" class="st5 st7">resulted in 110% ticket sales; collaborated with illustrators, publishers, and printers</tspan><tspan x="0" y="33" class="st5 st7">Devised brand strategy; managed brand assets and enforced brand guidelines</tspan></text>
 	</g>
-	<polygon points="67.2,544.6 67.2,543.4 68.8,544 70.3,544.6 68.8,545.2 67.2,545.8 	"/>
-	<polygon points="67.2,577.5 67.2,576.3 68.8,576.9 70.3,577.5 68.8,578.1 67.2,578.7 	"/>
+	<polygon points="67.2,643.6 67.2,642.5 68.8,643.1 70.3,643.6 68.8,644.2 67.2,644.8 	"/>
+	<polygon points="67.2,676.6 67.2,675.4 68.8,676 70.3,676.6 68.8,677.2 67.2,677.8 	"/>
 </g>
 <g id="Layer_3">
 </g>
