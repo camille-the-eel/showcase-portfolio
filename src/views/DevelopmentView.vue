@@ -33,7 +33,7 @@ export default {
           description:
             "In progress | Protoytpe web application to store and browse cocktail recipes. Currently complete: CRUD. Coming soon: Sort By options, pagination",
           filePath: require("@/assets/devAssets/portfolio-thumbnail_LBB0.png"),
-          websiteURL: "https://github.com/camille-the-eel/bar-book_v0",
+          websiteURL: "https://bar-book-v0.herokuapp.com/",
           githubURL: "https://github.com/camille-the-eel/bar-book_v0",
           dateYear: 2022,
         },
